@@ -1,0 +1,101 @@
+#root {
+  max-width: 1280px;
+  margin: 0 ;
+  padding: 0px;
+  /* text-align: center; */
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  font-family: sans-serif , cairo;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  background-color: #0052d0 !important ;
+  margin: 0;
+  height: 100vh;
+  color: white !important; 
+}
+
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+
+/* fonts */
+
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-ExtraLight.ttf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Medium.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Regular.ttf);
+  font-weight: 500;
+}
+  @font-face {
+    font-family: cairo;
+    src: url(../fonts/Cairo-Medium.ttf);
+    font-weight: 600;
+  }
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-ExtraBold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Black.ttf);
+  font-weight: bolder;
+}
