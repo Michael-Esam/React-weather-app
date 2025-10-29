@@ -10,6 +10,7 @@ body{
 }
 
 .app {
+  width: 110%;
   font-family: sans-serif , cairo;
   display: flex;
   justify-content:center ;
