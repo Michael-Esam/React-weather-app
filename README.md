@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-🌤️ Weather App
+##🌤️ Weather App##
 
 An interactive Weather Application built with React to display real-time weather information for any city 🌍.
 
